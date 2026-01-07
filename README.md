@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=1200&color=EC4899&center=true&vCenter=true&width=900&lines=Luis+Alexander+S%C3%A1nchez+Castillo" width="800"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=1200&color=5390d9&center=true&vCenter=true&width=900&lines=Luis+Alexander+S%C3%A1nchez+Castillo" width="800"/>
 
 
 </div>
@@ -91,7 +91,10 @@ Mi objetivo es crecer profesionalmente construyendo software útil, mantenible y
 
 ## 📈 Señales de actividad
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LuisSanchez851&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com
+  ?user=LuisSanchez851
+  &theme=tokyonight
+  &hide_border=true"/>
 
 </div>
 
