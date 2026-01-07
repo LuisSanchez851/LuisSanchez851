@@ -1,11 +1,11 @@
 <!-- ENTRY : CLAW + GLOW -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Ingeniero+de+Software+%7C+Full+Stack+Developer" width="800"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Ingeniero+de+Software+%7C+Full+Stack+Developer" width="800"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=1200&color=5390d9&center=true&vCenter=true&width=900&lines=Luis+Alexander+S%C3%A1nchez+Castillo" width="800"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=1800&color=5390d9&center=true&vCenter=true&width=900&lines=Luis+Alexander+S%C3%A1nchez+Castillo" width="800"/>
 
 
 </div>
