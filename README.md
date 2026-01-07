@@ -1,15 +1,19 @@
-<!-- HEADER -->
+<!-- ENTRY : CLAW + GLOW -->
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5B2EFF,50:6A5BFF,100:4FD1FF&text=Luis%20Alexander%20S%C3%A1nchez%20Castillo&fontSize=28&fontColor=ffffff&animation=fadeIn"
-    alt="header"
-  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Ingeniero+de+Software+%7C+Full+Stack+Developer" width="800"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=1200&color=EC4899&center=true&vCenter=true&width=900&lines=Luis+Alexander+S%C3%A1nchez+Castillo" width="800"/>
+
+
 </div>
 
 <!-- INTRO -->
 <div align="center">
 
-### 👨‍💻 Ingeniero de Software | Full Stack Developer  
+  
 🎓 Estudiante de Ingeniería de Software  
 📍 Colombia  
 
@@ -19,7 +23,6 @@
 
 ---
 
-<!-- ABOUT -->
 <div align="center">
 
 ## 🧠 Sobre mí
@@ -28,6 +31,10 @@ Soy **Ingeniero de Software en formación**, con enfoque **Full Stack**, experie
 Me interesa entender **cómo y por qué** funcionan los sistemas, no solo escribir código.
 
 Mi objetivo es crecer profesionalmente construyendo software útil, mantenible y bien diseñado.
+
+🟣 Diseño sistemas con foco en **arquitectura**, **lógica de negocio**  
+🔵 Busco claridad, estructura y propósito en el software  
+🟪 Menos ruido, más intención
 
 </div>
 
@@ -80,49 +87,38 @@ Mi objetivo es crecer profesionalmente construyendo software útil, mantenible y
 
 ---
 
-<!-- STATS -->
 <div align="center">
 
-## 📊 Estadísticas
+## 📈 Señales de actividad
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LuisSanchez851&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luis-s%C3%A1nchez-c-936b901b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jrcas027@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/3203933239">
+  <img src="https://img.shields.io/badge/WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://res.cloudinary.com/di7myorui/image/upload/v1767749870/pantera_negra_con_morada_becyx7.png" width="40"/>
 
 <br/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&hide_border=true&title_color=6A5BFF&icon_color=6A5BFF"
-/>
+<sub>silent · precise · relentless</sub>
 
-</div>
-
----
-
-<!-- CONTACT -->
-<div align="center">
-
-## 🔗 Conecta conmigo
-
-<a href="LINK_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-6A5BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:TU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-4FD1FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://wa.me/TU_NUMERO">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5B2EFF,50:6A5BFF,100:4FD1FF&section=footer"
-  />
 </div>
