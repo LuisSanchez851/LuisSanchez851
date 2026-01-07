@@ -1,88 +1,128 @@
-# 👋 Hola, soy Luis Alexander Sánchez Castillo
+<!-- HEADER -->
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5B2EFF,50:6A5BFF,100:4FD1FF&text=Luis%20Alexander%20S%C3%A1nchez%20Castillo&fontSize=28&fontColor=ffffff&animation=fadeIn"
+    alt="header"
+  />
+</div>
 
-🎓 Estudiante de **Ingeniería de Software**  
+<!-- INTRO -->
+<div align="center">
+
+### 👨‍💻 Ingeniero de Software | Full Stack Developer  
+🎓 Estudiante de Ingeniería de Software  
 📍 Colombia  
-💻 Apasionado por el desarrollo de software, backend y bases de datos  
-🚀 En constante aprendizaje y construcción de proyectos reales
+
+💡 Interesado en construir soluciones de software bien estructuradas, escalables y orientadas a la lógica del negocio.
+
+</div>
 
 ---
+
+<!-- ABOUT -->
+<div align="center">
 
 ## 🧠 Sobre mí
 
-Soy estudiante de Ingeniería de Software en últimos semestres, con interés en el **desarrollo backend**, la **arquitectura de aplicaciones** y la **gestión de bases de datos**.  
-He trabajado en proyectos académicos y personales donde aplico buenas prácticas, lógica de negocio y estructuración de sistemas.
+Soy **Ingeniero de Software en formación**, con enfoque **Full Stack**, experiencia en desarrollo backend y bases de datos, y conocimientos en frontend moderno.  
+Me interesa entender **cómo y por qué** funcionan los sistemas, no solo escribir código.
 
-Me caracterizo por:
-- Ganas constantes de aprender 📚
-- Enfoque práctico y orientado a proyectos reales
-- Interés en crecer profesionalmente en el mundo del software
+Mi objetivo es crecer profesionalmente construyendo software útil, mantenible y bien diseñado.
+
+</div>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+<!-- STACK -->
+<div align="center">
+
+## 🛠️ Stack Tecnológico
 
 ### Lenguajes
-- Java ☕
-- Python 🐍
-- JavaScript ⚡
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
+
+<br/><br/>
 
 ### Backend & Frameworks
-- Spring Boot
-- Flask
-- Node.js (básico)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60"/>
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Angular (componentes standalone)
+<br/><br/>
 
-### Bases de datos
-- MySQL
-- PostgreSQL
-- Modelado relacional
-- Procedimientos almacenados
+### Bases de Datos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60"/>
+
+<br/><br/>
 
 ### Herramientas
-- Git & GitHub
-- Visual Studio Code
-- NetBeans
-- Postman
-- XAMPP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60"/>
+
+</div>
 
 ---
 
-## 📂 Proyectos destacados
+<!-- STATS -->
+<div align="center">
 
-🔹 **Sistemas CRUD**  
-Aplicaciones web con operaciones completas de creación, lectura, actualización y eliminación, conectadas a bases de datos.
+## 📊 Estadísticas
 
-🔹 **Backend con Spring Boot**  
-APIs REST con manejo de seguridad básica, roles y lógica de negocio.
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"
+/>
 
-🔹 **Aplicaciones con Flask y Python**  
-Proyectos enfocados en procesamiento de datos y lógica backend.
+<br/>
 
-> 📌 Puedes encontrar más detalles en mis repositorios 👇
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&hide_border=true&title_color=6A5BFF&icon_color=6A5BFF"
+/>
 
----
-
-## 🌱 Actualmente aprendiendo
-
-- Arquitectura backend
-- Buenas prácticas y patrones de diseño
-- Ingeniería de datos (bases, procesamiento, lógica)
-- Preparación para el entorno laboral real
+</div>
 
 ---
 
-## 📫 Contáctame
+<!-- CONTACT -->
+<div align="center">
 
-- 💼 LinkedIn: *(puedes agregarlo aquí)*
-- 📧 Email: *(opcional)*
-- 💻 GitHub: Estás aquí 😉
+## 🔗 Conecta conmigo
+
+<a href="LINK_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-6A5BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:TU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-4FD1FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/TU_NUMERO">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⭐ *Siempre abierto a aprender, mejorar y colaborar en nuevos proyectos.*
-
+<!-- FOOTER -->
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5B2EFF,50:6A5BFF,100:4FD1FF&section=footer"
+  />
+</div>
