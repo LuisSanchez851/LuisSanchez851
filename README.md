@@ -89,19 +89,6 @@ Mi objetivo es crecer profesionalmente construyendo software útil, mantenible y
 
 <div align="center">
 
-## 📈 Señales de actividad
-
-<img src="https://streak-stats.demolab.com
-  ?user=LuisSanchez851
-  &theme=tokyonight
-  &hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <a href="https://www.linkedin.com/in/luis-s%C3%A1nchez-c-936b901b8/">
   <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
