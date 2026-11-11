@@ -14,7 +14,7 @@
 <div align="center">
 
   
-🎓 Estudiante de Ingeniería de Software  
+🎓 Ingeniero de Software  
 📍 Bogotá D.C, Colombia  
 
 💡 Interesado en construir soluciones de software bien estructuradas, escalables y orientadas a la lógica del negocio.
@@ -27,7 +27,7 @@
 
 ## 🧠 Sobre mí
 
-Soy **Ingeniero de Software en formación**, con enfoque **Full Stack**, experiencia en desarrollo backend y bases de datos, y conocimientos en frontend moderno.  
+Soy **Ingeniero de Software**, con enfoque **Full Stack**, experiencia en desarrollo backend y bases de datos, y conocimientos en frontend moderno.  
 Me interesa entender **cómo y por qué** funcionan los sistemas, no solo escribir código.
 
 Mi objetivo es crecer profesionalmente construyendo software útil, mantenible y bien diseñado.
